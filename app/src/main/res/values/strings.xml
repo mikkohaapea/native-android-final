@@ -8,7 +8,7 @@
     <string name="select_location">Select location</string>
     <string name="select_location_icon_description">open/close location selection</string>
     <string name="timestamp">Timestamp: %s</string>
-    <string name="station">Station: %s</string>
+    <string name="station">Station: %s (%.2f\u00B0 N; %.2f\u00B0 E)</string>
     <string name="forecast">Forecast: %s</string>
     <string name="invalid_location">Invalid location</string>
     <string name="info_top_bar">Info</string>

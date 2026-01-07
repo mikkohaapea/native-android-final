@@ -39,7 +39,7 @@ fun MainDataDisplay(data: List<LatestValues>, location: String = "") {
                     modifier = Modifier.padding(top = 4.dp, bottom = 4.dp)
                 )
                 Text(
-                    text = stringResource(R.string.station, values!!.station),
+                    text = stringResource(R.string.station, values!!.station, values!!.latitude, values!!.longitude),
                     modifier = Modifier.padding(top = 4.dp, bottom = 4.dp)
                 )
                 Text(
