@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lopputyo</string>
+    <string name="main_top_bar">My app</string>
+    <string name="main_top_bar_icon">Open info screen</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error retrieving data from API.</string>
+    <string name="main_header">Current aurora borealis activity</string>
+    <string name="select_location">Select location</string>
+    <string name="select_location_icon_description">open/close location selection</string>
+    <string name="timestamp">Timestamp: %s</string>
+    <string name="station">Station: %s</string>
+    <string name="forecast">Forecast: %s</string>
+    <string name="invalid_location">Invalid location</string>
+    <string name="info_top_bar">Info</string>
+    <string name="into_top_bar_icon">Back</string>
+    <string name="info_header">Information</string>
+    <string name="info_text">
+        This app fetches the most recent aurora borealis data from the Finnish Meteorological Institute.
+        Updated every five minutes.
+    </string>
+    <string name="info_license">
+        The data is licensed under The Creative Commons Attribution 4.0 International license (CC BY 4.0 ).
+    </string>
+</resources>
